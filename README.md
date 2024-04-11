@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pearlhummy
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m a software engineer
 - 💞️ I’m looking to collaborate on back-end
 - 📫 How to reach me igbinladepelumi@gmail.com
 
