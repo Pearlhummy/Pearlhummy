@@ -12,8 +12,8 @@
 I am a dedicated learner in the ALX Front-End Developer Program, on a journey to become a world-class software engineer. I started this path because I’m inspired by the power of technology to solve real-world problems, break barriers, and create opportunities. I am passionate about building impactful digital experiences that solve real-world problems and make life easier for users.
 
 🔭 **Currently Learning:** JavaScript, React, APIs, UI/UX principles  
-🌱 **Goal:** To [**build scalable front-end solutions and collaborate with global teams**]  
-👯 **Open to Collaborating On:** [**web apps, e-commerce platforms, SaaS dashboards, portfolio sites**]  
+🌱 **Goal:** To **build scalable front-end solutions and collaborate with global teams**  
+👯 **Open to Collaborating On:** **web apps, e-commerce platforms, SaaS dashboards, portfolio sites**  
 💬 **Ask Me About:** HTML, CSS, Git, Responsive Design, Front-End Development Tools, and Digital Marketing  
 📫 **How to reach me:** igbinladepelumi@gmai.com | https://www.linkedin.com/in/igbinladepelumi/   
 
@@ -46,13 +46,11 @@ I am a dedicated learner in the ALX Front-End Developer Program, on a journey to
 - 🔥 **Project Name** — [https://maxtrade.com.ng/] 
   Description: I designed and created a website for the CEO PWAN Group for one of his sub-company - MAXTRADE
 
-> You can pin these projects on your profile using GitHub’s “Pinned Repositories” feature.
-
 ---
 
 ### 🗓️ 4-Month Vision
 
-> “In four months, I see myself working on real-world projects, collaborating with other developers, and contributing to open-source tools that improve the web. I’ll have a strong portfolio, polished GitHub profile, and the confidence to apply for junior front-end roles globally.”
+“In four months, I see myself working on real-world projects, collaborating with other developers, and contributing to open-source tools that improve the web. I’ll have a strong portfolio, polished GitHub profile, and the confidence to apply for junior front-end roles globally.”
 
 ---
 
